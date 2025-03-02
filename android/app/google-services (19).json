@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451626362452",
+    "project_id": "agitha-46bdb",
+    "storage_bucket": "agitha-46bdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451626362452:android:e74c8910f2051a765befc1",
+        "android_client_info": {
+          "package_name": "com.example.agthia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEnjy4IYxk_zX7vJOqCxyM-3l8kRvmeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
